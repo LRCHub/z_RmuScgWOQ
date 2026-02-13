@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "エバ",
+  "base_artist": "柊キライ",
+  "createdAt": "2026-02-13T05:41:20.691975Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エバ",
+      "artist": "柊キライ",
+      "has_synced": true,
+      "path": "select/01_エバ_柊キライ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エバ",
+      "artist": "柊キライ feat. v flower",
+      "has_synced": true,
+      "path": "select/02_エバ_柊キライ_feat._v_flower.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エバ",
+      "artist": "柊キライ",
+      "has_synced": false,
+      "path": "select/03_エバ_柊キライ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エバ",
+      "artist": "Hiiragi Kirai",
+      "has_synced": true,
+      "path": "select/04_エバ_Hiiragi_Kirai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エバ",
+      "artist": "柊キライ",
+      "has_synced": false,
+      "path": "select/pl_01_エバ_柊キライ.txt"
+    }
+  ]
+}
